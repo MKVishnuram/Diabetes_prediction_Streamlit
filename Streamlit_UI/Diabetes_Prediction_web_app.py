@@ -48,7 +48,7 @@ def validate_He_disease(Hd):
 def main():
     loaded_model = None
     try:
-        loaded_model = joblib.load('D://Vishnu_prjct//Diabetes_prediction//ML Model//dtreemodel.joblib')
+        loaded_model = joblib.load('ML Model//dtreemodel.joblib')
 
     except Exception as e:
         st.error(f"Error loading the model: {e}")
