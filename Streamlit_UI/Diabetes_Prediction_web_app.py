@@ -17,9 +17,9 @@ def diabetes_prediction(loaded_model, input_data):
         prediction = loaded_model.predict(input_data_reshaped)
 
         if prediction[0] == 0:
-            return 'The person is not diabetic'
+            return 'Positive for Diabetes'
         else:
-            return 'The person is diabetic'
+            return 'Negative for Diabetes'
     except Exception as e:
         return f"Error making prediction: {e}"
 
