@@ -1,6 +1,5 @@
-Hello, to Everyone., Here i am Build More precise predictive Machine learning model for Type - 2 Diabetes Dataset
-here, I am perform Datascience lifecycle steps  Datacollection, Datapreprocessing, Exploratory data Analysis(EDA), Feature Selection, DataSplitting, Machine learning model building i am apply KNN, Linear Regression , LogisticRegression, Support Vector Classifier, and Dexision Tree(Algorithms),
-and performing model Evaluation of all these model using K-fold crross Validation, And Deployment using Streamlit(User Friendly) Library to deploy My Predictive model.. my model scored above >=90 and <=96 Accuracy of my 4 model(KNN,LogisticRegression,D-tree,SVC)
+
+"Hello everyone, I've developed a highly precise predictive machine learning model for Type-2 Diabetes. I've executed all stages of the data science lifecycle, including data collection, preprocessing, exploratory data analysis (EDA), feature selection, data splitting, and model building. Employing algorithms such as K-Nearest Neighbors (KNN), Linear Regression, Logistic Regression, Support Vector Classifier (SVC), and Decision Tree, I achieved accuracy scores ranging from 90% to 96% through model evaluation using K-fold cross-validation. Furthermore, I've seamlessly deployed this user-friendly model using the Streamlit library for easy access and utilization."
 
 
 And Deploy the Predictive model into Streamlit Cloud
